@@ -1,7 +1,0 @@
-C:\Users\gebkab\source\repos\DownloadsCleanerApp\DownloadsCleaner\bin\Release\DownloadsCleanerStartUp.exe.config
-C:\Users\gebkab\source\repos\DownloadsCleanerApp\DownloadsCleaner\bin\Release\DownloadsCleanerStartUp.exe
-C:\Users\gebkab\source\repos\DownloadsCleanerApp\DownloadsCleaner\bin\Release\DownloadsCleanerStartUp.pdb
-C:\Users\gebkab\source\repos\DownloadsCleanerApp\DownloadsCleanerStartUp\obj\Release\DownloadsCleanerStartUp.csprojAssemblyReference.cache
-C:\Users\gebkab\source\repos\DownloadsCleanerApp\DownloadsCleanerStartUp\obj\Release\DownloadsCleanerStartUp.csproj.CoreCompileInputs.cache
-C:\Users\gebkab\source\repos\DownloadsCleanerApp\DownloadsCleanerStartUp\obj\Release\DownloadsCleanerStartUp.exe
-C:\Users\gebkab\source\repos\DownloadsCleanerApp\DownloadsCleanerStartUp\obj\Release\DownloadsCleanerStartUp.pdb
