@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<settings>
+  <paths>
+    <searchedDirectory>
+      <path>C:\Users\gebkab\Downloads</path>
+      <deleteTime>168</deleteTime>
+    </searchedDirectory>
+    <searchedDirectory>
+      <path>C:\Users\gebkab\Desktop\Test</path>
+      <deleteTime>1</deleteTime>
+    </searchedDirectory>
+  </paths>
+
+  <!--None, No notification, file just gets deleted-->
+  <!--Notify, Notify before that file will be deleted can cancel. Parameter is notification time in minutes before deletion-->
+  <prompt type="Notify">10</prompt>
+  <breakTime>1</breakTime>
+  <combineTime>5</combineTime>
+  <delayedStart>3</delayedStart>
+  
+</settings>
